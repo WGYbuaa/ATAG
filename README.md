@@ -1,2 +1,4 @@
 # ATAG
-Test Architecture Generation by Leveraging BERT and Control and Data Flows
+This is the repository for our ICST'2024 paper "Test Architecture Generation by Leveraging BERT and Control and Data Flows". 
+In industrial practices, test cases are often designed by test engineers based on the functionalities of the System under Test (SUT) in parallel and independently. This can lead to a lack of a comprehensive overview of the test architecture, hampering the reuse of test functions when implementing new test cases. To address this challenge, we propose \method, an automated test architecture generation approach, which employs a multi-objective constrained optimization algorithm to retrieve highly-cohesive and loosely-coupled test functions using control flow and data flow based optimization strategies. We also equip \method with a newly-proposed BERT-based dual-structure pre-training model, i.e., FunBERT, to combine both test function description and test case description to generate test function specification.
+![Uploading The Overall Process of ATAG.png…]()
