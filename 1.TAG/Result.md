@@ -1,4 +1,4 @@
-Result of TAG demo：
+Results of TAG demo：
 ====
 
 In the demo, the numbers 0~11 indicate the initial test function,   
