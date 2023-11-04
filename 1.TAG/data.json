@@ -1,0 +1,14 @@
+{"index_global": 0, "step": "Initialize the system", "parameter": [], "returns": ""}
+{"index_global": 1, "step": "Get source node resources", "parameter": [], "returns": "src_res"}
+{"index_global": 2, "step": "Send business on the source node", "parameter": [], "returns": "sdh1"}
+{"index_global": 3, "step": "Activate the business", "parameter": [], "returns": "sdh1"}
+{"index_global": 4, "step": "Remove business", "parameter": [], "returns": "sdh1"}
+{"index_global": 5, "step": "Clean up the environment", "parameter": [], "returns": ""}
+
+{"index_global": 6, "step": "Initialize the system", "parameter": [], "returns": ""}
+{"index_global": 7, "step": "Get source node resources", "parameter": [], "returns": "src_res"}
+{"index_global": 8, "step": "Send business on the source node", "parameter": [], "returns": "sdh1"}
+{"index_global": 9, "step": "Inquiry the business", "parameter": [], "returns": "sdh1"}
+{"index_global": 10, "step": "Deactivate the business", "parameter": [], "returns": "sdh1"}
+{"index_global": 11, "step": "Clean up the environment", "parameter": [], "returns": ""}
+
