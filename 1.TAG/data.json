@@ -217,12 +217,12 @@
 {"index_global": 207, "step": "Set up SDH on the source-host node", "parameter": ["vc_level", "sdh_route_policy"], "returns": "sdh1"}
 {"index_global": 208, "step": "Specify the path to send the business", "parameter": [], "returns": "sdh2"}
 {"index_global": 209, "step": "Controller reset", "parameter": [], "returns": ""}
-{"index_global": 210, "step": "Query 'sdh2' business", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 210, "step": "Query 'SDH3' business", "parameter": ["SDH3"], "returns": ""}
 {"index_global": 211, "step": "VALIDATE Primary and secondary path separation", "parameter": [], "returns": ""}
-{"index_global": 212, "step": "'sdh2' business de-activation", "parameter": ["sdh2"], "returns": ""}
-{"index_global": 213, "step": "'sdh2' business activation", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 212, "step": "'SDH3' business de-activation", "parameter": ["SDH3"], "returns": ""}
+{"index_global": 213, "step": "'SDH3' business activation", "parameter": ["SDH3"], "returns": ""}
 {"index_global": 214, "step": "Controller reset", "parameter": [], "returns": ""}
-{"index_global": 215, "step": "Delete the business 'sdh2'", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 215, "step": "Delete the business 'SDH3'", "parameter": ["SDH3"], "returns": ""}
 {"index_global": 216, "step": "Alert on link insertion", "parameter": [], "returns": ""}
 {"index_global": 217, "step": "Set up SDH on the source-host node", "parameter": ["vc_level", "sdh_route_policy"], "returns": "sdh3"}
 {"index_global": 218, "step": "Specify the path to send the business", "parameter": [], "returns": "sdh4"}
@@ -254,13 +254,13 @@
 {"index_global": 243, "step": "Setting the SDH Global Switch", "parameter": [], "returns": ""}
 {"index_global": 244, "step": "Set up SDH on the source-host node", "parameter": ["vc_level", "sdh_route_policy"], "returns": "sdh1"}
 {"index_global": 245, "step": "Controller reset", "parameter": [], "returns": ""}
-{"index_global": 246, "step": "Specify the path to send the business", "parameter": [], "returns": "sdh2"}
-{"index_global": 247, "step": "Query 'sdh2' business", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 246, "step": "Specify the path to send the business", "parameter": [], "returns": "SDH5"}
+{"index_global": 247, "step": "Query 'SDH5' business", "parameter": ["SDH5"], "returns": ""}
 {"index_global": 248, "step": "VALIDATE Primary and secondary path separation", "parameter": [], "returns": ""}
-{"index_global": 249, "step": "'sdh2' business de-activation", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 249, "step": "'SDH5' business de-activation", "parameter": ["SDH5"], "returns": ""}
 {"index_global": 250, "step": "Controller reset", "parameter": [], "returns": ""}
-{"index_global": 251, "step": "'sdh2' business activation", "parameter": ["sdh2"], "returns": ""}
-{"index_global": 252, "step": "Delete the business 'sdh2'", "parameter": ["sdh2"], "returns": ""}
+{"index_global": 251, "step": "'SDH5' business activation", "parameter": ["SDH5"], "returns": ""}
+{"index_global": 252, "step": "Delete the business 'SDH5'", "parameter": ["SDH5"], "returns": ""}
 {"index_global": 253, "step": "Alert on link insertion", "parameter": [], "returns": ""}
 {"index_global": 254, "step": "Set up SDH on the source-host node", "parameter": ["vc_level", "sdh_route_policy"], "returns": "sdh3"}
 {"index_global": 255, "step": "Specify the path to send the business", "parameter": [], "returns": "sdh4"}
